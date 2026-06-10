@@ -1,21 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sf-t3-1779642675702-400.pages.dev/</loc>
-    <lastmod>2026-05-28</lastmod>
+    <loc>https://sarakinhceo-gif.github.io/bp-sf-t3-1779642675702-400/</loc>
+    <lastmod>2026-06-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://sf-t3-1779642675702-400.pages.dev/about.html</loc>
-    <lastmod>2026-05-28</lastmod>
+    <loc>https://sarakinhceo-gif.github.io/bp-sf-t3-1779642675702-400/about.html</loc>
+    <lastmod>2026-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sf-t3-1779642675702-400.pages.dev/feed.xml</loc>
-    <lastmod>2026-05-28</lastmod>
-    <changefreq>daily</changefreq>
+    <loc>https://sarakinhceo-gif.github.io/bp-sf-t3-1779642675702-400/posts/t3link-001-1csc960.html</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarakinhceo-gif.github.io/bp-sf-t3-1779642675702-400/feed.xml</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
